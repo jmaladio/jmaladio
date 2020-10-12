@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
+<h1 align="center">Hi 👋, I'm Julián</h1>
 <h3 align="center">a React Frontend developer and latte enthusiast from Buenos Aires</h3>
 
 - 🔭 I’m currently working on [the frontend of an ecommerce web app](https://github.com/jmaladio/reward-store)
